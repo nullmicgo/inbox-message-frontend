@@ -2,7 +2,6 @@
   "name": "inbox-message-frontend",
   "version": "1.0.0",
   "description": "this is a front-end of push notification",
-  "homepage": "https://nullmicgo.github.io/inbox-message-frontend",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +14,5 @@
   "bugs": {
     "url": "https://github.com/nullmicgo/inbox-message-frontend/issues"
   },
-  "homepage": "https://github.com/nullmicgo/inbox-message-frontend#readme"
+  "homepage": "https://github.com/nullmicgo/inbox-message-frontend"
 }
